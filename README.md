@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sidik  
 
-🚀 **Data Analyst | Data Scientist | AI Project Manager | Developer IA**
+🚀 **Data Scientist | AI Project Manager | Developer IA**
 
 I’m a passionate innovator who loves bridging the gap between **data, artificial intelligence, and business strategy**.  
 Curious by nature and driven by impact, I turn complex datasets into **intelligent, actionable insights**.  
@@ -34,17 +34,30 @@ Together, they shaped my hybrid vision of **technology, business, and innovation
 
 ### 🧩 Tech Stack & Skills
 
-#### 💻 Programming & Data
-`Python` • `R` • `SQL` • `Pandas` • `NumPy` • `Scikit-learn` • `TensorFlow` • `OpenAI API`
+#### ☁️ Frameworks, Cloud & Visualisation  
+**Data & Cloud :**  
+`Docker` • `Spark` • `SQL Server` • `AWS` • `Git` • `Snowflake`  
 
-#### 🧠 AI & Data Science
-`Machine Learning` • `Deep Learning` • `Data Visualization` • `Predictive Modeling` • `RAG`
+**Data Visualisation :**  
+`Power BI` • `Tableau` • `Streamlit`  
 
-#### 🌐 Web & App Development
-`Streamlit` • `Flask` • `HTML5` • `CSS3` • `JavaScript` • `Bootstrap`
+**Développement Web :**  
+`Symfony` • `React` • `PHP`  
 
-#### 🛠️ Tools & Platforms
-`Git` • `VS Code` • `Jupyter` • `Docker` • `Power BI` • `Google Colab`
+---
+
+#### 🤖 IA, Machine & Deep Learning  
+**Frameworks ML/DL :**  
+`Scikit-learn` • `Keras` • `TensorFlow`  
+
+**Computer Vision :**  
+`YOLO` • `OpenCV`  
+
+**Langage Naturel & Agents IA :**  
+`LangChain` • `GraphChain` • `AutoGPT` • `LlamaIndex` • `Hugging Face Transformers`  
+
+**Outils d’orchestration IA :**  
+`Chainlit` • `PromptFlow` • `Haystack`
 
 ---
 
